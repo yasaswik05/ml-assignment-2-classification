@@ -26,7 +26,7 @@ https://github.com/yasaswik05/ml-assignment-2-classification
 
 ## d. Models Used
 
-The assignment PDF says "6 ML models" in one sentence, but the actual numbered list and comparison-table rows specify five models. Therefore, this implementation follows the five models explicitly named in the assignment:
+This implementation follows the five models explicitly named in the assignment:
 
 1. Logistic Regression
 2. Decision Tree Classifier
