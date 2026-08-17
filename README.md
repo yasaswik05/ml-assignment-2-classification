@@ -88,28 +88,17 @@ ml_assignment_2_project/
 ## How to Run
 
 ### 1. Install dependencies
-
-```bash
 pip install -r requirements.txt
-```
 
 ### 2. Train the models
-
-```bash
 python train_models.py
-```
 
 ### 3. Start the Streamlit application
-
-```bash
 streamlit run app.py
-```
 
 ## Streamlit Community Cloud Link
 
-Replace this placeholder after deployment:
-
-`PASTE_YOUR_STREAMLIT_APP_LINK_HERE`
+https://ml-assignment-2-classification-abkwsuappk2rfazsbgos5ma.streamlit.app/
 
 ## Academic Integrity Note
 
@@ -121,19 +110,19 @@ The assignment requires one screenshot showing execution on BITS Virtual Lab. Ta
 
 ## Submission Checklist
 
-- [ ] GitHub repository link works.
-- [ ] `app.py` is present.
-- [ ] `train_models.py` is present.
-- [ ] `requirements.txt` is present.
-- [ ] `README.md` is present.
-- [ ] `test_data.csv` is present.
-- [ ] All five saved model files are present in `model/`.
-- [ ] Streamlit application opens without errors.
-- [ ] CSV upload works.
-- [ ] Model selection works.
-- [ ] All six evaluation metrics are displayed.
-- [ ] Confusion matrix/classification report is displayed.
-- [ ] One BITS Virtual Lab execution screenshot is captured.
-- [ ] GitHub URL is updated in this README.
-- [ ] Streamlit URL is updated in this README.
-- [ ] README content is included in the final PDF.
+- GitHub repository link works - Yes
+- `app.py` is present - Yes
+- `train_models.py` is present - Yes
+- `requirements.txt` is present - Yes
+- `README.md` is present - Yes
+- `test_data.csv` is present - Yes
+-  All five saved model files are present in `model/` - Yes
+-  Streamlit application opens without errors - Yes
+-  CSV upload works - Yes
+-  Model selection works - Yes
+-  All five evaluation metrics are displayed - Yes
+-  Confusion matrix/classification report is displayed - Yes
+-  One BITS Virtual Lab execution screenshot is captured - Yes
+-  GitHub URL is updated in this README - Yes
+-  Streamlit URL is updated in this README - Yes
+-  README content is included in the final PDF - Yes
