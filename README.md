@@ -56,7 +56,7 @@ Based on the model evaluation results:
 - **Random Forest (Ensemble):** Achieved the best overall performance, with the highest accuracy (**97.37%**), F1-score (**96.30%**), and MCC (**94.42%**). It also achieved **100% precision** and **92.86% recall**, demonstrating strong and balanced classification performance.
 
 
-- **Overall: Winner** **Random Forest (Ensemble)** performed best across the primary evaluation metrics, while **Logistic Regression** provided the strongest linear baseline. The results indicate that the ensemble approach was particularly effective for capturing the patterns in the dataset.
+- **Overall Winner:** **Random Forest (Ensemble)** performed best across the primary evaluation metrics, while **Logistic Regression** provided the strongest linear baseline. The results indicate that the ensemble approach was particularly effective for capturing the patterns in the dataset.
 
 
 ## Streamlit App
