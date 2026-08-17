@@ -22,10 +22,7 @@ For this project, the target is encoded as:
 The supplied `test_data.csv` contains the held-out 20% test set used for the evaluation.
 
 ## c. GitHub Repository Link
-
-**Replace this placeholder with your actual GitHub repository URL after you create the repository:**
-
-`PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE`
+https://github.com/yasaswik05/ml-assignment-2-classification
 
 ## d. Models Used
 
@@ -68,7 +65,6 @@ The application provides:
 
 ## Project Structure
 
-```text
 ml_assignment_2_project/
 ├── app.py
 ├── train_models.py
@@ -83,7 +79,6 @@ ml_assignment_2_project/
     ├── knn.joblib
     ├── naive_bayes.joblib
     └── random_forest_ensemble.joblib
-```
 
 ## How to Run
 
@@ -97,8 +92,8 @@ python train_models.py
 streamlit run app.py
 
 ## Streamlit Community Cloud Link
-
 https://ml-assignment-2-classification-abkwsuappk2rfazsbgos5ma.streamlit.app/
+
 
 ## Academic Integrity Note
 
